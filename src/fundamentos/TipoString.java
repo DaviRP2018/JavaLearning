@@ -25,14 +25,14 @@ public class TipoString {
         var salario = 1234.45F;
 
         System.out.println(
-            "Nome: "
-            + nome
-            + "\nSobrenome: "
-            + sobrenome
-            + "\nIdade: "
-            + idade
-            + "\nSalário: "
-            + salario);
+                "Nome: "
+                        + nome
+                        + "\nSobrenome: "
+                        + sobrenome
+                        + "\nIdade: "
+                        + idade
+                        + "\nSalário: "
+                        + salario);
 
         System.out.printf("Nome: %s %s\nSalário: %.2f\n", nome, sobrenome, salario);
 
