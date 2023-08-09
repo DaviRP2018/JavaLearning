@@ -8,13 +8,13 @@ public class DesafioConversao {
 
         Scanner teclado = new Scanner(System.in);
 
-        System.out.println("Digite o primeiro salário");
+        System.out.print("Digite o primeiro salário: ");
         String valor1 = teclado.nextLine().replace(",", ".");
 
-        System.out.println("Digite o segundo salário");
+        System.out.print("Digite o segundo salário: ");
         String valor2 = teclado.nextLine().replace(",", ".");
 
-        System.out.println("Digite o terceiro salário");
+        System.out.print("Digite o terceiro salário: ");
         String valor3 = teclado.nextLine().replace(",", ".");
 
         teclado.close();
