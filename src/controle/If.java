@@ -1,4 +1,4 @@
-package estruturas;
+package controle;
 
 import java.util.Scanner;
 

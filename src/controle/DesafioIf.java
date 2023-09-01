@@ -1,4 +1,4 @@
-package estruturas;
+package controle;
 
 public class DesafioIf {
 
